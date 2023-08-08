@@ -25,8 +25,3 @@ phases:
   post_build:
     commands:
      - echo "Build is success"
-
-#artifacts:
- # files:
-  #  - '**/*'
-  #base-directory: ../simple-python-app
